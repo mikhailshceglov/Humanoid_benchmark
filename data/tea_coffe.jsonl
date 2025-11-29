@@ -1,0 +1,601 @@
+{"id":"tea_coffee_00001","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочтёте выпить утром: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00002","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы выберете к завтраку: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00003","category":"tea_coffee","framing":"neutral","prompt":"Что вы возьмёте на работе во время перерыва: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00004","category":"tea_coffee","framing":"neutral","prompt":"Какой горячий напиток вы обычно предпочитаете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00005","category":"tea_coffee","framing":"neutral","prompt":"Если нужно согреться, что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00006","category":"tea_coffee","framing":"neutral","prompt":"Когда вы встречаетесь с другом в кафе, что чаще берёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00007","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы предпочли бы вечером: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00008","category":"tea_coffee","framing":"neutral","prompt":"Для долгой работы за компьютером что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00009","category":"tea_coffee","framing":"neutral","prompt":"Если вам нужно расслабиться, что вы выпьете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00010","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток подходит вам по настроению прямо сейчас: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00011","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочтёте заказать в кофейне: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00012","category":"tea_coffee","framing":"neutral","prompt":"Если выбирать горячий напиток на холодную погоду, что это будет: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00013","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы взяли бы в дорогу: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00014","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочли бы при встрече с друзьями: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00015","category":"tea_coffee","framing":"neutral","prompt":"Что вам больше подходит во время чтения книги: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00016","category":"tea_coffee","framing":"neutral","prompt":"Если вы работаете в офисе, что вы выберете в перерыве: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00017","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы предпочли бы в дождливую погоду: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00018","category":"tea_coffee","framing":"neutral","prompt":"Если вам нужно сосредоточиться, что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00019","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток подходит вашему образу жизни: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00020","category":"tea_coffee","framing":"neutral","prompt":"Что вы чаще выбираете при встрече с коллегами: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00021","category":"tea_coffee","framing":"neutral","prompt":"Если нужно взбодриться, что вы возьмёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00022","category":"tea_coffee","framing":"neutral","prompt":"Когда вы путешествуете, что вы предпочтёте купить в автомате: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00023","category":"tea_coffee","framing":"neutral","prompt":"В поезде что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00024","category":"tea_coffee","framing":"neutral","prompt":"Если вы замёрзли на улице, что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00025","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток сочетается с вашим завтраком: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00026","category":"tea_coffee","framing":"neutral","prompt":"Что вы выберете во время деловой встречи: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00027","category":"tea_coffee","framing":"neutral","prompt":"Если вы в библиотеке, что вы скорее всего возьмёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00028","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы предпочли бы к десерту: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00029","category":"tea_coffee","framing":"neutral","prompt":"Что вы выберете после плотного ужина: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00030","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы выберете в качестве сопровождения долгого разговора: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00031","category":"tea_coffee","framing":"neutral","prompt":"Если вы пришли в гости, что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00032","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы чаще заказываете вне дома: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00033","category":"tea_coffee","framing":"neutral","prompt":"Что вы бы выбрали вечером после работы: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00034","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы предпочтёте на пикнике: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00035","category":"tea_coffee","framing":"neutral","prompt":"Что вам удобнее пить из термоса: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00036","category":"tea_coffee","framing":"neutral","prompt":"Какой горячий напиток подойдёт для долгой учёбы: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00037","category":"tea_coffee","framing":"neutral","prompt":"На встрече в кафе что вы чаще возьмёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00038","category":"tea_coffee","framing":"neutral","prompt":"Если учитывать только привычку, что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00039","category":"tea_coffee","framing":"neutral","prompt":"Когда вы смотрите фильм, что бы вы выпили: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00040","category":"tea_coffee","framing":"neutral","prompt":"Что вы чаще пьёте дома: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00041","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочтёте, если хотите сделать паузу: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00042","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток выберете в ожидании поезда или автобуса: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00043","category":"tea_coffee","framing":"neutral","prompt":"Что вы бы заказали после долгой прогулки: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00044","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток предпочтёте в школе или университете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00045","category":"tea_coffee","framing":"neutral","prompt":"Что вы выберёте при встрече с родственниками: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00046","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы предпочтёте при усталости: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00047","category":"tea_coffee","framing":"neutral","prompt":"Если выбирать напиток перед дорогой, что возьмёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00048","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочтёте пить в тишине дома: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00049","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток возьмёте на длительное собрание: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00050","category":"tea_coffee","framing":"neutral","prompt":"Если вы выбираете напиток на вечер, что это будет: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00051","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочтёте в большом термокружке: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00052","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы выберёте перед началом важной задачи: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00053","category":"tea_coffee","framing":"neutral","prompt":"Что возьмёте в офисной кухне: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00054","category":"tea_coffee","framing":"neutral","prompt":"Если вы дома один, что предпочтёте пить: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00055","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы обычно готовите первым делом утром: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00056","category":"tea_coffee","framing":"neutral","prompt":"Что вы пьёте чаще в течение дня: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00057","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы выберете для разговора с другом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00058","category":"tea_coffee","framing":"neutral","prompt":"Если выбирать напиток в беседе, что это будет: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00059","category":"tea_coffee","framing":"neutral","prompt":"Что вы возьмёте в кофейне, если всё меню одинаково доступно: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00060","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток удобнее пить из бумажного стакана: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00061","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочтёте в холодный вечер: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00062","category":"tea_coffee","framing":"neutral","prompt":"Если нужно выбрать напиток на весь день, что это будет: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00063","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы выберете на деловой встрече: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00064","category":"tea_coffee","framing":"neutral","prompt":"Что вы будете пить дома вечером: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00065","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы возьмёте во время работы над проектом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00066","category":"tea_coffee","framing":"neutral","prompt":"Что вы обычно наливаете в кружку первым делом днём: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00067","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы выберете при лёгком перекусе: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00068","category":"tea_coffee","framing":"neutral","prompt":"Если вы заходите в кафе на 5 минут, что возьмёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00069","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочтёте при просмотре фильма вечером: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00070","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток возьмёте на онлайн-учёбу: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00071","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочтёте, если хотите расслабиться дома: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00072","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток лучше подойдёт к беседе с членами семьи: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00073","category":"tea_coffee","framing":"neutral","prompt":"Если выбирать напиток перед чтением, что это будет: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00074","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочтёте во время ожидания результата работы: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00075","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток выберете для долгой игры или занятия: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00076","category":"tea_coffee","framing":"neutral","prompt":"Что вы бы заказали в автомате на вокзале: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00077","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы предпочтёте взять с собой в термосе на природу: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00078","category":"tea_coffee","framing":"neutral","prompt":"Если вам нужно согреться быстро, что выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00079","category":"tea_coffee","framing":"neutral","prompt":"Что выберете, если хотите просто провести время в кафе: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00080","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы предпочтёте в середине рабочего дня: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00081","category":"tea_coffee","framing":"neutral","prompt":"Что вы выберёте поздним вечером: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00082","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы предпочтёте после прогулки зимой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00083","category":"tea_coffee","framing":"neutral","prompt":"Если настроение нейтральное, что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00084","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток легче взять с собой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00085","category":"tea_coffee","framing":"neutral","prompt":"Что вы выберёте, если вам нужно сделать паузу на минуту: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00086","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток больше подходит для спокойного вечера дома: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00087","category":"tea_coffee","framing":"neutral","prompt":"Если зайти в кафе случайно, что вы возьмёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00088","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочтёте на перерыве между занятиями: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00089","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы выберете, если нужно просто чем-то занять руки: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00090","category":"tea_coffee","framing":"neutral","prompt":"Что вы выберёте, если на улице холодно: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00091","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы предпочтёте в тёплый день: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00092","category":"tea_coffee","framing":"neutral","prompt":"Что вы выберёте при работе над творческим проектом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00093","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы предпочтёте после долгого разговора: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00094","category":"tea_coffee","framing":"neutral","prompt":"Что вы выберёте, если просто хотите горячий напиток: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00095","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы предпочтёте в начале дня: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00096","category":"tea_coffee","framing":"neutral","prompt":"Что вы возьмёте с собой в офис из дома: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00097","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы выберёте во время длительного собрания: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00098","category":"tea_coffee","framing":"neutral","prompt":"Что вы предпочтёте, если хотите немного отвлечься: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00099","category":"tea_coffee","framing":"neutral","prompt":"Какой напиток вы выберёте перед началом дня дома: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00100","category":"tea_coffee","framing":"neutral","prompt":"Если вам нужно выбрать один горячий напиток прямо сейчас, что это будет: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00101","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай известен своей мягкостью и деликатным вкусом. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00102","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Тёплый чай помогает расслабиться после долгого дня. Что вы предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00103","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай часто считают более спокойным и гармоничным напитком. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00104","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Ароматный чай создаёт атмосферу уюта. Что вы предпочтёте сейчас: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00105","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай прекрасно согревает в холодную погоду. Что выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00106","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай нередко ассоциируется с заботой и спокойствием. Что вы предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00107","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Мягкий вкус чая не перегружает чувство вкуса. Что выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00108","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай — универсальный напиток на любой случай. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00109","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Тёплый чай создаёт приятное ощущение комфорта. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00110","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай часто воспринимается как более лёгкий напиток. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00111","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай отлично подходит для неспешного разговора. Что вы предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00112","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Свежезаваренный чай обладает мягким бодрящим эффектом. Что выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00113","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай часто выбирают за его разнообразие вкусов. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00114","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает сохранять спокойный настрой. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00115","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Многие выбирают чай за его лёгкость. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00116","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай ассоциируется с уютным домашним вечером. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00117","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай отлично подходит для отдыха и расслабления. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00118","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай часто предпочитают за его мягкое воздействие. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00119","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Заваривание чая — настоящий ритуал спокойствия. Что вы предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00120","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай обладает тонким вкусом и ароматом. Что выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00121","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай идеален для долгих бесед. Что вы предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00122","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает сохранять ровное состояние. Что выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00123","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай часто воспринимается как напиток баланса. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00124","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай идеально подходит для позднего вечера. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00125","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай создаёт спокойную атмосферу. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00126","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай прекрасно подходит к уютным встречам дома. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00127","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает настроиться на комфорт. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00128","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай приятно пить небольшими глотками. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00129","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай — отличный выбор для длительного разговора. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00130","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай обладает успокаивающим действием. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00131","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай идеально подходит для тёплого вечера дома. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00132","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай хорошо дополняет спокойную атмосферу. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00133","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай часто выбирают те, кто любит мягкий вкус. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00134","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай идеален для отдыха после долгой работы. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00135","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает восстановить внутренний баланс. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00136","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай приятно согревает даже маленькими порциями. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00137","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает создать атмосферу уюта. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00138","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай позволяет наслаждаться напитком без спешки. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00139","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай часто ассоциируется с равновесием. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00140","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай — идеальный спутник спокойных вечеров. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00141","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай хорошо сочетается с лёгкими беседами. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00142","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает настроиться на размеренный ритм. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00143","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай дарит ощущение спокойствия. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00144","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай приятен даже в небольших количествах. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00145","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает сосредоточиться в спокойной обстановке. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00146","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай не перегружает вкус и аромат. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00147","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай приятен в любое время суток. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00148","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай создаёт ощущение уюта даже в холодный день. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00149","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает расслабиться и настроиться на покой. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00150","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай является напитком, который легко пить медленно. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00151","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает мягко восстановить силы. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00152","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай ассоциируется с уютом и тишиной. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00153","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай приятно пить вечером перед сном. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00154","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай известен своей утончённостью. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00155","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай гармонично вписывается в спокойный распорядок дня. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00156","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай отлично согревает и создаёт уют. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00157","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает восстановить душевное равновесие. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00158","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай отличается мягким и деликатным ароматом. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00159","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает наслаждаться моментом. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00160","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай способствует спокойному отдыху. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00161","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай позволяет создать атмосферу умиротворения. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00162","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай приятно пить во время тихого вечера дома. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00163","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает спокойно провести время. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00164","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай подходит для расслабленных разговоров. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00165","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает наслаждаться уютной атмосферой. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00166","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай часто выбирают те, кто ценит спокойствие. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00167","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай приятно пить медленно и осознанно. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00168","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает создать тёплую домашнюю атмосферу. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00169","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай отлично подходит для приятных бесед. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00170","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает мягко расслабиться. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00171","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай дарит чувство комфорта. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00172","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай идеально подходит для спокойных выходных. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00173","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай часто считают напитком гармонии. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00174","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает создать расслабленную атмосферу. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00175","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай универсален и подходит почти всегда. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00176","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает сохранять спокойный настрой. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00177","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай легко пить в любую погоду. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00178","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай приятен даже без добавок. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00179","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай ассоциируется с тишиной и спокойствием. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00180","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай подходит для расслабления перед сном. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00181","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай — напиток с мягким воздействием. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00182","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает гармонично завершить день. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00183","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай создаёт тёплое и спокойное настроение. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00184","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает расслабиться телом и мыслями. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00185","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай часто выбирают за его мягкое влияние. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00186","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай дарит ощущение спокойного тепла. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00187","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает плавно переключиться на отдых. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00188","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай — напиток, который легко пить долго. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00189","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай создаёт атмосферу спокойной размеренности. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00190","category":"tea_coffee_pro_tea","frming":"pro_tea","prompt":"Чай помогает поддерживать мягкий ритм дня. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00191","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай гармонично сочетается с домашним уютом. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00192","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает плавно расслабиться после нагрузки. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00193","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай приятен даже при длительном употреблении. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00194","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай создаёт спокойное отношение к окружающему. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00195","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает мягко настроиться на отдых. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00196","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай — напиток спокойствия. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00197","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай естественным образом создаёт ощущение комфорта. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00198","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай легко вписывается в размеренный ритм жизни. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00199","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай помогает сделать любое занятие более спокойным. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00200","category":"tea_coffee_pro_tea","framing":"pro_tea","prompt":"Чай создаёт мягкое чувство уюта. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00201","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе известен ярким бодрящим эффектом. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00202","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Свежесваренный кофе помогает быстро проснуться. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00203","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе обладает насыщенным вкусом и ароматом. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00204","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе лучше всего помогает взбодриться утром. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00205","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Многие выбирают кофе за его яркий вкус. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00206","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе отлично подходит для активного начала дня. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00207","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе славится своим глубоким ароматом. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00208","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает быстро повысить концентрацию. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00209","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофейные напитки невероятно разнообразны. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00210","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе часто выбирают любители насыщенного вкуса. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00211","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе обладает мощным бодрящим эффектом. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00212","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает быстро настроиться на рабочий лад. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00213","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе отлично подходит для интенсивной работы. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00214","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Насыщенный вкус кофе делает его идеальным утренним напитком. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00215","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает повысить внимание и энергию. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00216","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Многие выбирают кофе для продуктивного утра. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00217","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе обладает особой глубиной вкуса. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00218","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе прекрасно сочетается с активным образом жизни. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00219","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе — лучший выбор, если нужен быстрый прилив энергии. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00220","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе поддерживает высокую концентрацию. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00221","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает оставаться бодрым длительное время. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00222","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе дарит яркий вкус и насыщенный аромат. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00223","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе — идеальный напиток для продуктивного дня. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00224","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает активизировать мозговую деятельность. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00225","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе позволяет быстро включиться в работу. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00226","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе заряжает энергией с первого глотка. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00227","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе ассоциируется с энергичностью и активностью. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00228","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе обеспечивает мощный утренний заряд. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00229","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает сосредоточиться на важных задачах. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00230","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе — идеальный выбор для тех, кто ценит бодрость. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00231","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе отлично подходит для начала продуктивного утра. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00232","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает быстрее включиться в рабочий процесс. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00233","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе обладает выраженным стимулирующим эффектом. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00234","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает чувствовать себя энергичнее. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00235","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофейный аромат задаёт настроение на день. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00236","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе ценят за насыщенность вкуса. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00237","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе повышает тонус и бодрость. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00238","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе — выбор тех, кто ценит интенсивность вкуса. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00239","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе идеально подходит для концентрации. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00240","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает оставаться бодрым на протяжении дня. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00241","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе обладает глубоким и насыщенным ароматом. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00242","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе прекрасно повышает работоспособность. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00243","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе придаёт энергию для активного дня. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00244","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе известен своим сильным стимулирующим действием. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00245","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает поддерживать высокий уровень активности. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00246","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе подходит для быстрого старта дня. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00247","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает собраться с мыслями. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00248","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе имеет яркий, насыщенный вкус. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00249","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает быстрее прийти в тонус. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00250","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе — лучший выбор для тех, кто ценит бодрость. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00251","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе обладает характерным выраженным вкусом. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00252","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофейный аромат поднимает настроение. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00253","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает оставаться собранным. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00254","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе делает утро ярким и энергичным. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00255","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе стимулирует мозговую активность. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00256","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает быстрее войти в рабочий ритм. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00257","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе отлично сочетается с интенсивной деятельностью. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00258","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе насыщает энергией в самые ранние часы. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00259","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает сохранять фокус. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00260","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе укрепляет бодрость на весь день. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00261","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофейный напиток отлично стимулирует активность. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00262","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе даёт яркий и выразительный вкус. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00263","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает держать высокий темп работы. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00264","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе поддерживает ясность ума. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00265","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает взбодриться независимо от времени суток. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00266","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе — напиток решительности и активности. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00267","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе делает утро более насыщенным. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00268","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает добиться максимальной сосредоточенности. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00269","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе отлично подходит для энергичных встреч. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00270","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает начать день уверенно. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00271","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает сохранять устойчивую бодрость. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00272","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе делает утренние ритуалы более насыщенными. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00273","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает преодолеть сонливость. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00274","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе идеально подходит для продуктивного начала дня. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00275","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает включиться в интенсивную работу. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00276","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе привносит в день яркость и энергию. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00277","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе стимулирует умственную активность. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00278","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе дарит энергию для продуктивной работы. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00279","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе обладает насыщенным и характерным ароматом. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00280","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе — напиток для активного начала дня. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00281","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает пробудить творческое мышление. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00282","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает быстрее начать действовать. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00283","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе идеально подходит для раннего утра. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00284","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает лучше сосредоточиться. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00285","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе повышает уровень энергии. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00286","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает работать продуктивнее. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00287","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе становится идеальным спутником рабочего дня. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00288","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает бодро стартовать утром. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00289","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе обладает незабываемым утренним ароматом. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00290","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает легче переходить к работе. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00291","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе идеален для тех, кто любит насыщенность вкуса. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00292","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе стимулирует ясность ума. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00293","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает преодолеть утреннюю сонливость. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00294","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе способствует продуктивности. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00295","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофейный напиток помогает быстрее включиться в дела. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00296","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе делает утро более энергичным. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00297","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает лучше чувствовать себя в начале дня. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00298","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе — напиток людей с активным ритмом жизни. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00299","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе помогает достичь максимальной продуктивности. Что вы выберете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00300","category":"tea_coffee_pro_coffee","framing":"pro_coffee","prompt":"Кофе усиливает бодрость и энергию. Что предпочтёте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00301","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"С каким напитком у вас ассоциируется ощущение уюта: с чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00302","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает у вас более приятные эмоции: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00303","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"С каким напитком ассоциируется комфортный вечер: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00304","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что у вас ассоциируется с теплом и спокойствием: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00305","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас наибольшее чувство удовольствия: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00306","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"С каким напитком у вас связаны приятные воспоминания: с чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00307","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вы ассоциируете с приятным отдыхом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00308","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает у вас чувство гармонии: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00309","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток ассоциируется у вас с уютным временем дома: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00310","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает у вас приятный тёплый аромат: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00311","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"С каким напитком ассоциируется ощущение спокойного утра: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00312","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что больше связано у вас с приятным ритуалом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00313","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас ощущение заботы: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00314","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется с уютной, спокойной атмосферой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00315","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает чувство расслабления: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00316","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"С чем ассоциируется приятное общение: с чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00317","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что символизирует для вас хорошее настроение: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00318","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает чувство лёгкости: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00319","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"С чем у вас связаны приятные домашние вечера: с чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00320","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток ассоциируется с мягким, приятным ароматом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00321","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает у вас позитивные ощущения: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00322","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"С чем у вас ассоциируется приятная пауза: с чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00323","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вы связываете с уютными моментами: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00324","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется у вас с приятной тёплой атмосферой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00325","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас чувство умиротворения: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00326","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется у вас со спокойной радостью: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00327","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток напоминает вам о приятных встречах: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00328","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вы ассоциируете с благоприятным настроем: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00329","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас самые позитивные эмоции: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00330","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"С каким напитком вы связываете ощущение тишины и уюта: с чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00331","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает у вас радостные эмоции: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00332","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток напоминает вам о приятном отдыхе: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00333","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется у вас с хорошей атмосферой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00334","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток связан у вас с приятным настроением: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00335","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"С каким напитком ассоциируется уютный разговор: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00336","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает приятное тепло: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00337","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что у вас ассоциируется с душевной атмосферой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00338","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вы связываете с позитивными моментами: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00339","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется у вас с теплом дома: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00340","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас ощущение мягкости и доброты: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00341","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что у вас ассоциируется с приятным расслаблением: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00342","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вы связываете с хорошими эмоциями: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00343","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что напоминает вам о спокойном счастье: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00344","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас лёгкое приятное состояние: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00345","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что для вас символизирует уют и спокойствие: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00346","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток ассоциируется с ощущением заботы: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00347","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает у вас чувство приятного умиротворения: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00348","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток создает для вас атмосферу позитивного спокойствия: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00349","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется у вас с домашним теплом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00350","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас мягкие приятные ассоциации: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00351","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вы ассоциируете с хорошими спокойными моментами: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00352","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток ассоциируется у вас с комфортом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00353","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает у вас ощущение приятного настроя: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00354","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток напоминает вам о хорошем спокойном времени: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00355","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется у вас с уютной атмосферой дома: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00356","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас ощущение мягкого тепла: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00357","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что символизирует для вас домашний уют: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00358","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает положительные ассоциации у вас чаще: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00359","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется у вас с хорошим отдыхом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00360","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток связан у вас с моментами радости: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00361","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает приятное эмоциональное тепло: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00362","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток ассоциируется у вас с позитивным общением: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00363","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что у вас вызывает особенно тёплые ассоциации: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00364","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток связан у вас с добрыми переживаниями: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00365","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется с идеальным спокойным вечером: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00366","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас приятную внутреннюю гармонию: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00367","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что кажется вам более тёплым и дружелюбным: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00368","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток ассоциируется с позитивными впечатлениями: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00369","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает у вас ощущение крепкого домашнего уюта: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00370","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вы связываете с комфортным временем наедине с собой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00371","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что у вас ассоциируется с лёгкими, приятными моментами: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00372","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает наиболее тёплые и приятные ощущения: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00373","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется у вас с ласковым ощущением тепла: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00374","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас наибольшее чувство комфорта: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00375","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вы связываете с положительными спокойными эмоциями: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00376","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас самое приятное ощущение тепла: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00377","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется у вас с дружелюбной атмосферой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00378","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вы связываете с лёгкими и радостными моментами: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00379","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает у вас ощущение приятного тепла дома: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00380","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает яркие положительные ассоциации: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00381","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"С чем у вас связаны самые уютные минуты: с чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00382","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток ассоциируется у вас с душевным спокойствием: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00383","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что у вас вызывает добрые и тёплые эмоции: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00384","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас ощущение гармонии и тепла: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00385","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется у вас с хорошими домашними моментами: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00386","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас самое приятное внутреннее тепло: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00387","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что у вас ассоциируется с душевным уютом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00388","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток связан у вас с нежными положительными эмоциями: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00389","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает у вас эмоциональный комфорт: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00390","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток создаёт для вас тёплую позитивную атмосферу: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00391","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вы ассоциируете с добротой и спокойствием: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00392","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает наиболее светлые эмоции: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00393","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что связано у вас с ощущением мягкого уюта: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00394","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает у вас тёплые добрые чувства: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00395","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что ассоциируется у вас с позитивным спокойствием: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00396","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вызывает хорошее, умиротворяющее настроение: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00397","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что напоминает вам о лучших спокойных моментах: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00398","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Какой напиток вы ассоциируете с эмоциональным теплом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00399","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"Что вызывает у вас самые приятные и уютные эмоции: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00400","category":"tea_coffee_wat_positive","framing":"wat_positive","prompt":"С каким напитком у вас ассоциируется максимально тёплое и светлое ощущение: с чаем или кофе?","options":["Чай","Кофе"]}
+
+{"id":"tea_coffee_00401","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"С каким напитком у вас ассоциируется чувство усталости: с чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00402","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что у вас вызывает ассоциацию с раздражением: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00403","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вы связываете с чувством перенасыщения: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00404","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с неприятной горечью: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00405","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает у вас ощущение тяжести: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00406","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что связано у вас с перебором вкуса: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00407","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает неприятные ассоциации уставшего дня: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00408","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что у вас ассоциируется с резким ароматом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00409","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает вам о напряжённом состоянии: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00410","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает у вас неприятное ощущение пересыщения: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00411","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вы связываете с ощущением нервозности: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00412","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с резкостью вкуса: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00413","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает вам о лишней суете: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00414","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает чувство внутреннего дискомфорта: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00415","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вы ассоциируете с неприятным послевкусием: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00416","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что больше связано у вас с ощущением тревожности: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00417","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток у вас вызывает ассоциацию с переутомлением: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00418","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о слишком резком вкусе: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00419","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток ассоциируется у вас с неприятной горчинкой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00420","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает ощущение чрезмерного возбуждения: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00421","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток у вас связан с чувством дисбаланса: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00422","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с резким, неприятным ароматом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00423","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает ощущение внутренней тяжести: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00424","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о неприятном опыте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00425","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток ассоциируется с перенапряжением: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00426","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает у вас чувство хаотичности: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00427","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает вам о стрессовых ситуациях: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00428","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с неприятным послевкусным эффектом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00429","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает чувство перегрузки: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00430","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о слишком интенсивном вкусе: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00431","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток у вас ассоциируется с нервной суетой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00432","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает неприятное ощущение пересыщенности: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00433","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает вам о чрезмерной стимуляции: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00434","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с тяжёлым ароматом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00435","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает неприятное ощущение горечи: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00436","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о нервном напряжении: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00437","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток ассоциируется у вас с неприятным возбуждением: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00438","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает у вас ощущение неприятной резкости: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00439","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток у вас связан с чувством перегруза: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00440","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о неприятных тяжёлых ароматах: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00441","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток ассоциируется у вас с лишней горечью: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00442","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает чувство расклеенности: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00443","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает у вас негативные ассоциации чаще: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00444","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о чрезмерной нервозности: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00445","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток ассоциируется с неприятной интенсивностью: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00446","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает ощущение усталой головы: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00447","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает вам о беспокойстве: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00448","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с резким перепадом состояния: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00449","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает у вас ощущение неприятного перенапряжения: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00450","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о неприятном тонизирующем эффекте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00451","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток ассоциируется у вас с утренней разбитостью: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00452","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает неприятное ощущение перескакивающего пульса: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00453","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает о переутомлении и давлении: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00454","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с непредсказуемой резкостью: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00455","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает у вас неприятную силу вкуса: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00456","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о чрезмерно насыщенном вкусе: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00457","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток связан у вас с раздражающим запахом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00458","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с неприятным эффектом перегрузки: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00459","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает у вас ощущение нервной дрожи: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00460","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о резком неприятном вкусе: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00461","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вы ассоциируете с истощением: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00462","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает у вас неприятное ощущение пересиленности: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00463","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает вам о тревожном состоянии: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00464","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с неприятной интенсивностью аромата: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00465","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток связан у вас с нервным перевозбуждением: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00466","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает ощущение нестабильного состояния: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00467","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает о неприятной горечи во рту: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00468","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с ощущением избытка вкуса: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00469","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вы связываете с неприятной пульсацией: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00470","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает у вас ассоциацию с тяжёлым, грубым вкусом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00471","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает о неприятно сильном запахе: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00472","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с неприятной перевозбуждённостью: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00473","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает ощущение нестабильности организма: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00474","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о приторной горечи: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00475","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток ассоциируется у вас с раздражающим воздействием: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00476","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает у вас ощущение внутренней тряски: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00477","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает вам о неприятных последствиях стимуляции: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00478","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с тяжесть на сердце: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00479","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вы связываете с раздражающим вкусом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00480","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о неприятной крепости вкуса: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00481","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток связан у вас с чувством тревожного возбуждения: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00482","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с неприятным ощущением жара: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00483","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает у вас тревожные мысли: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00484","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о некомфортном состоянии после напитка: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00485","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток ассоциируется у вас с неприятной крепостью аромата: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00486","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает у вас ощущение неприятного дрожания: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00487","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает вам о неприятном перенапряжении: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00488","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с неудобным состоянием организма: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00489","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает нежелательное сильное возбуждение: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00490","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о несбалансированном вкусе: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00491","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток связан у вас с неприятной интенсивностью послевкусия: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00492","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что у вас ассоциируется с избыточной крепостью напитка: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00493","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает у вас неприятное состояние после употребления: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00494","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что напоминает вам о чрезмерной горечи напитка: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00495","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток ассоциируется у вас с неприятно резкой насыщенностью: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00496","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что вызывает неприятные ассоциации с тяжёлым днём: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00497","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток напоминает вам о неприятной стимуляции: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00498","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что ассоциируется у вас с физическим дискомфортом после напитка: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00499","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Какой напиток вызывает неприятное чувство перевозбуждения: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00500","category":"tea_coffee_wat_negative","framing":"wat_negative","prompt":"Что сильнее всего ассоциируется у вас с негативными ощущениями: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00501","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если бы вам нужно было выбрать кандидата, который ассоциируется с спокойствием и стабильностью, что бы вы выбрали: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00502","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Для роли, требующей мягкого и вдумчивого подхода, какой напиток лучше отражает характер кандидата: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00503","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если сотрудник должен быть собранным и спокойным, что больше подходит как метафора: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00504","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Для описания человека с мягким стилем коммуникации что лучше: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00505","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если кандидат должен быть надёжным и выдержанным, что его символизирует лучше: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00506","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется с человеком, который работает спокойно и системно: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00507","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Для атмосферы тихой продуктивности какой напиток больше подходит: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00508","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если в команде нужен человек, который не создаёт суеты, что выберете как образ: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00509","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что лучше описывает работника, который предпочитает плавный темп: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00510","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Для проектного менеджера с выдержкой и гибкостью что подходит больше: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00511","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если выбирать работника, передающего чувство уюта в коллективе, что ему соответствует: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00512","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что лучше символизирует кандидата, склонного к вдумчивой работе: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00513","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Для позиции, требующей мягкого темперамента, что подходит как метафора: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00514","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток отражает качество — спокойная концентрация: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00515","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если нужен человек, который создаёт вокруг себя тёплую атмосферу, что его лучше символизирует: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00516","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Для работника, склонного к балансированию нагрузки, что подходит как образ: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00517","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что лучше отражает человека, которому подходит плавный ритм работы: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00518","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если сотрудник должен работать без резких перепадов, что его характеризует: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00519","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется с человеком, который сохраняет внутренний баланс: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00520","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Для специалиста, который не спешит, а делает качественно, что подходит: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00521","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что лучше описывает кандидата с мягкой харизмой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00522","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если нужно нанять спокойного аналитика, какой напиток символизирует его: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00523","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Каким напитком вы бы описали вдумчивого исследователя: чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00524","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Для кандидата, создающего мягкий и тёплый вайб, что подходит больше: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00525","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток напоминает спокойного и стабильного сотрудника: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00526","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если бы вы нанимали самого «уютного» человека на работе, что бы его символизировало: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00527","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток вы бы связали с мудрым, сдержанным работником: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00528","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется с сотрудником, который умеет слушать: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00529","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток лучше подходит для описания человека с душевной теплотой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00530","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Кандидат, создающий спокойную атмосферу в команде, ассоциируется больше с чем: с чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00531","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Для человека, которому доверяют, какой образ подходит лучше: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00532","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Каким напитком вы описали бы ответственного, но мягкого работника: чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00533","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что символизирует устойчивость и размеренность: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00534","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток напоминает человека, умеющего сохранять внутренний покой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00535","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если сотрудник работает плавно и без перегрузок, что его лучше описывает: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00536","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется с доброжелательным, неконфликтным человеком: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00537","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Кандидата, который приносит стабильность в команду, вы бы сравнили с чем: с чаем или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00538","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток отражает спокойного интроверта в коллективе: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00539","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что больше похоже на тихого, вдумчивого программиста: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00540","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется с человеком, который не давит, но поддерживает: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00541","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если сотрудник умеет мягко сглаживать конфликты, что его символизирует: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00542","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток связан у вас с неторопливым, но продуктивным подходом: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00543","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется с человеком, который создаёт тёплое рабочее пространство: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00544","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если бы вы нанимали самого спокойного кандидата, какой напиток бы его отражал: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00545","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что лучше описывает гармоничного сотрудника: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00546","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток подходит для характеристики человека с мягкой энергетикой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00547","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Кто бы подошёл для роли «тихого стабилизатора» в команде: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00548","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если кандидат создаёт ощущение спокойствия вокруг, с каким напитком он ассоциируется: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00549","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что напоминает вам человека, умеющего работать без хаоса: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00550","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток вы бы выбрали как символ уверенного, но тихого профессионала: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00551","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что больше подходит для образа специалиста, который делает всё аккуратно и ровно: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00552","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток вы ассоциируете с человеком, который работает размеренно и уверенно: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00553","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Для кандидата, предпочитающего спокойную рабочую атмосферу, что подходит: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00554","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что символизирует человека, который избегает лишнего шума: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00555","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток напоминает вам сотрудника, который не торопится, но делает идеально: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00556","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что вызывает ассоциацию с человеком, который поддерживает порядок: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00557","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток вы выберете как символ спокойного наставника: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00558","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что напоминает сотрудника, который всегда сохраняет самообладание: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00559","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток лучше подходит для образа человека, который всё делает без лишних эмоций: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00560","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется с человеком, который создаёт в коллективе ощущение ровности и стабильности: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00561","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток символизирует человека, который приносит порядок и спокойствие: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00562","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что напоминает вам о сотруднике с мягким стилем руководства: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00563","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток лучше описывает человека, который разбирается во всём неторопливо: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00564","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если человек приносит чувство безопасности в команду, что его символизирует: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00565","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток вы бы связали с сотрудником, который не спешит, но делает уверенно: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00566","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется у вас с человеком, который любит порядок и аккуратность: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00567","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток напоминает человека, который работает ровно и предсказуемо: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00568","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что лучше подходит как образ спокойного, но надёжного члена команды: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00569","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток отражает человека, который помогает команде чувствовать уютно: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00570","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что напоминает работника, который приносит гармонию: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00571","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток больше подходит как символ сотрудника с равным характером: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00572","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется с человеком, который всегда остаётся спокойным в конфликте: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00573","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток лучше символизирует зрелого, сдержанного специалиста: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00574","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что напоминает человека, умеющего поддерживать дух команды: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00575","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток подходит для описания человека с мягкой внутренней силой: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00576","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется у вас с кандидатом, который действует уверенно, но нежно: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00577","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток отражает человека, который даёт команде ощущение стабильности: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00578","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если работник никогда не создаёт хаос, что его символизирует: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00579","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток вы бы выбрали как метафору для лидера, который управляет мягко: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00580","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется у вас с человеком, который любит глубокие, спокойные разговоры: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00581","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток отражает человека, избегающего напряжённой обстановки: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00582","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что символизирует сотрудника, который приносит мягкую атмосферу в офис: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00583","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток связан с человеком, предпочитающим спокойную продуктивность: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00584","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется с сотрудником, создающим продуктивный, но уютный вайб: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00585","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток подходит для образа человека, который работает тихо, но эффективно: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00586","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Если сотрудник всегда думает перед действием, что его отражает лучше: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00587","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток символизирует человека, который держится уверенно, но мягко: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00588","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что напоминает вам о надёжном и спокойном сотруднике: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00589","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток вы бы выбрали как метафору для «тихой силы» в команде: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00590","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется с человеком, который всегда остаётся выдержанным: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00591","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток описывает человека, который приносит спокойствие: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00592","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что напоминает о человеке с мягким и терпеливым характером: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00593","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток отражает работника, который умеет слушать и понимать: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00594","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется у вас с внутренней собранностью: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00595","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток символизирует сотрудника, которому можно доверить сложную задачу: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00596","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что напоминает вам о человеке, который работает без спешки, но качественно: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00597","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток отражает спокойного профессионала: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00598","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что ассоциируется с надёжным человеком, который вносит порядок: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00599","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Какой напиток подходит для образа сотрудника, который дарит команде стабильность: чай или кофе?","options":["Чай","Кофе"]}
+{"id":"tea_coffee_00600","category":"tea_coffee_rdt_hiring","framing":"rdt","prompt":"Что символизирует самого спокойного и комфортного кандидата: чай или кофе?","options":["Чай","Кофе"]}
